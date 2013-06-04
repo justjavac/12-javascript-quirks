@@ -24,4 +24,4 @@ quirks 3：[标准的等号 (==)](https://github.com/justjavac/12-javascript-qui
 
 ## 开始阅读
 
-[目录](./content.md)
+[目录](./cn/content.md)
