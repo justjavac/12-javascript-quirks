@@ -1,4 +1,4 @@
-title: JavaScript 的怪癖 1：隐式类型转换
+JavaScript 的怪癖 1：隐式类型转换
 ---
 
 原文：[JavaScript quirk 1: implicit conversion of values](http://www.2ality.com/2013/04/quirk-implicit-conversion.html)
