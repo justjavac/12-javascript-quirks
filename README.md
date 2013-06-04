@@ -17,10 +17,9 @@ quirks 3：[标准的等号 (==)](https://github.com/justjavac/12-javascript-qui
 
 - [SingleSeeker](http://weibo.com/singleseeker)
 - [iranw](http://weibo.com/u/1564393001) (http://www.phpno.com/)
+- [jackyqi](http://weibo.com/thankwsx)
 
-特别感谢
-
-特别感谢 88250111 群的大牛们。
+特别感谢 QQ 群(88250111)的大牛们 以及群的创建者 CodeIgniter 中国社区创始人 [Hex](http://weibo.com/hexhex)
 
 ## 开始阅读
 
