@@ -16,7 +16,7 @@ quirks 3：[标准的等号 (==)](https://github.com/justjavac/12-javascript-qui
 协助翻译：
 
 - [SingleSeeker](http://weibo.com/singleseeker)
-- [iranw](http://www.phpno.com/)
+- [iranw](http://weibo.com/u/1564393001) (http://www.phpno.com/)
 
 特别感谢
 
