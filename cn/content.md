@@ -1,4 +1,4 @@
-title: javascript 的 12 个怪癖（quirks）
+目录
 ---------------
 
 原文：[12 JavaScript quirks](http://www.2ality.com/2013/04/12quirks.html)
