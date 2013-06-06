@@ -13,11 +13,11 @@
 本章是 [javascript 的 12 个怪癖](http://justjavac.com/javascript/2013/04/08/12-javascript-quirks.html) 系列的第一篇，
 也是一个目录，为的是你能更好的了解它们：
 
-1. [隐式数值转换](http://justjavac.com/javascript/2013/04/08/javascript-quirk-1-implicit-conversion-of-values.html) （已翻译）
+1. [隐式数值转换](1-implicit-conversion-of-values.md) （已翻译）
 
-2. [两个「空值」：undefined 和 null](http://justjavac.com/javascript/2013/04/14/javascript-quirk-2-two-non-values-undefined-and-null.html) （已翻译）
+2. [两个「空值」：undefined 和 null](2-two-non-values-undefined-and-null.md) （已翻译）
 
-3. [标准的等号 (==)](http://justjavac.com/javascript/2013/04/26/12-javascript-quirk-3-normal-equality-vs-the-double-equals.html)
+3. [标准的等号 (==)](3-normal-equality-vs-the-double-equals.md)
 
 4. 未知的变量名将创建一个全局变量（Unknown variable names create global variables）
 
