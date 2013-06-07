@@ -1,4 +1,4 @@
-6：变量的作用范围
+JavaScript 的怪癖 6：变量的作用范围
 ---
 
 原文：[JavaScript quirk 6: the scope of variables](http://www.2ality.com/2013/05/quirk-variable-scope.html)
