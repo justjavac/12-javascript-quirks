@@ -13,9 +13,9 @@
 本章是 [javascript 的 12 个怪癖](http://justjavac.com/javascript/2013/04/08/12-javascript-quirks.html) 系列的第一篇，
 也是一个目录，为的是你能更好的了解它们：
 
-1. [隐式数值转换](1-implicit-conversion-of-values.md) （已翻译）
+1. [隐式数值转换](1-implicit-conversion-of-values.md)
 
-2. [两个「空值」：undefined 和 null](2-two-non-values-undefined-and-null.md) （已翻译）
+2. [两个「空值」：undefined 和 null](2-two-non-values-undefined-and-null.md)
 
 3. [标准的等号 (==)](3-normal-equality-vs-the-double-equals.md)
 
@@ -23,7 +23,7 @@
 
 5. 参数处理方式（Parameter handling）
 
-6. 变量的作用范围（The scope of variables）
+6. [变量的作用范围](6-the-scope-of-variables.md)
 
 7. 闭包和自由(外部)变量（Closures and free (external) variables）
 
