@@ -3,9 +3,9 @@
 
 原文：[JavaScript quirk 6: the scope of variables](http://www.2ality.com/2013/05/quirk-variable-scope.html)
 
-译文：[JavaScript 的怪癖 6：变量的作用范围]()
+译文：[JavaScript 的怪癖 6：变量的作用范围](#)
 
-译者：[未翻译]()
+译者：[未翻译](#)
 
 ----------------------------------------------------
 
