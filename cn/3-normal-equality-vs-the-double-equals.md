@@ -1,4 +1,4 @@
-3：标准的等号 (==)
+JavaScript 的怪癖 3：标准的等号 (==)
 ---
 
 原文：[JavaScript quirk 3: normal equality (==)](http://www.2ality.com/2013/04/quirk-equality.html)
