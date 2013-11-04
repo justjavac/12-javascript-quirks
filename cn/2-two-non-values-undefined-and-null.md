@@ -9,7 +9,7 @@ JavaScript 的怪癖 2：两个「空值」：undefined 和 null
 
 ----------------------------------------------------
 
-此文是 [javascript 的 12 个怪癖（quirks）](http://justjavac.com/javascript/2013/04/08/12-javascript-quirks.html) 系列的第二篇。
+此文是 [javascript 的 12 个怪癖（quirks）](https://github.com/justjavac/12-javascript-quirks) 系列的第二篇。
 感谢 [@SingleSeeker](http://weibo.com/singleseeker) 对本文的翻译。
 
 以下是正文：
