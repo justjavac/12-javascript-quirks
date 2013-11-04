@@ -19,7 +19,7 @@
 
 3. [标准的等号 (==)](3-normal-equality-vs-the-double-equals.md)
 
-4. 未知的变量名将创建一个全局变量（Unknown variable names create global variables）
+4. [未知的变量名将创建一个全局变量](4-unknown-variable-names-create-global-variables.md)
 
 5. 参数处理方式（Parameter handling）
 
