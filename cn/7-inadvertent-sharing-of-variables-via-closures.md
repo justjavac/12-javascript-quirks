@@ -133,4 +133,4 @@ Array.prototype.forEach.call(
 
 [1] [JavaScript quirk 6: the scope of variables][1]
 
-[1]: https://github.com/justjavac/12-javascript-quirks/blob/master/cn/6-the-scope-of-variables.md
+[1]: 6-the-scope-of-variables.md
