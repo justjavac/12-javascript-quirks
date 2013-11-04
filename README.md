@@ -22,7 +22,7 @@ quirks 3：[标准的等号 (==)](https://github.com/justjavac/12-javascript-qui
 
 特别感谢 QQ 群(88250111)的大牛们以及群的创建者 CodeIgniter 中国社区创始人 [Hex](http://weibo.com/hexhex)
 
-另：感谢[9TECH开发者社区](http://9tech.cn/)中[]()的热心翻译。
+另：感谢 [9TECH 开发者社区](http://9tech.cn/)中 [zhmengqing](http://me.9tech.cn/index.php/homepage/main/96622) 的热心翻译。
 
 ## 开始阅读
 
