@@ -7,7 +7,7 @@ JavaScript 的怪癖 7：变量闭包之后的无意识共享
 
 ----------------------------------------------------
 
-此文是 [javascript 的 12 个怪癖（quirks）](http://justjavac.com/javascript/2013/04/08/12-javascript-quirks.html) 系列的第六篇。
+此文是 [javascript 的 12 个怪癖（quirks）](https://github.com/justjavac/12-javascript-quirks) 系列的第七篇。
 
 闭包是 JavaScript 一个强大的特性：当函数离开了创建它的位置，仍然可以获取到该位置上存在的所有变量。
 本文主要解释闭包的工作方式以及我们为什么要对于变量的无意识共享多加小心。
