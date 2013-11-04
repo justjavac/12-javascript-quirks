@@ -7,7 +7,7 @@ JavaScript 的怪癖 4：未知变量名创建全局变量
 
 ----------------------------------------------------
 
-此文是 [javascript 的 12 个怪癖（quirks）](http://justjavac.com/javascript/2013/04/08/12-javascript-quirks.html) 系列的第六篇。
+此文是 [javascript 的 12 个怪癖（quirks）](https://github.com/justjavac/12-javascript-quirks) 系列的第四篇。
 
 当你使用了一个未知的变量名，通常 JavaScript 会自动创建全局变量：
 
