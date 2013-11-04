@@ -21,7 +21,7 @@
 
 4. [未知的变量名将创建一个全局变量](4-unknown-variable-names-create-global-variables.md)
 
-5. 参数处理方式（Parameter handling）
+5. [参数处理方式](5-parameter-handling.md)
 
 6. [变量的作用范围](6-the-scope-of-variables.md)
 
