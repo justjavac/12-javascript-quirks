@@ -25,7 +25,7 @@
 
 6. [变量的作用范围](6-the-scope-of-variables.md)
 
-7. 闭包和自由(外部)变量（Closures and free (external) variables）
+7. [闭包和自由(外部)变量](7-inadvertent-sharing-of-variables-via-closures.md)
 
 8. “对象、数组——傻傻分不清楚”（Array-like objects）
 
