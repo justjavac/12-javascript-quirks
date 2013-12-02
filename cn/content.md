@@ -27,7 +27,7 @@
 
 7. [闭包和自由(外部)变量](7-inadvertent-sharing-of-variables-via-closures.md)
 
-8. “对象、数组——傻傻分不清楚”（Array-like objects）
+8. [“对象、数组——傻傻分不清楚”](8-array-like-objects.md)
 
 9. 子类的构造函数（Subtyping constructors）
 
